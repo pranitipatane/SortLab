@@ -1,0 +1,22 @@
+[theme]
+base = "light"
+primaryColor = "#1D5FD6"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F6F7F9"
+textColor = "#16191D"
+borderColor = "#E6E8EC"
+font = "Figtree:https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&display=swap"
+baseRadius = "0.625rem"
+
+[theme.sidebar]
+primaryColor = "#1D5FD6"
+backgroundColor = "#F6F7F9"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#3C4450"
+borderColor = "#E6E8EC"
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
